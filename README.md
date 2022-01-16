@@ -1,2 +1,7 @@
-# brus_question_warehouse
-Keep learning
+## Keep learning
+
+ 
+- 小目标： 只刷 easy medium 难度的
+- 小计划: 每天刷一道 记录下来 定期回顾
+- 小想法: 能动手尽量先思考(多想想题的本质), 思考不了再动手(看看题解啥的), 万事俱备双管齐下有奇效(看题解，加回顾)，他日归来忆往昔(泪流满面)
+- 小可爱: krishnan
